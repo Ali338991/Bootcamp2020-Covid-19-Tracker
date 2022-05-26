@@ -1,0 +1,12 @@
+.tableHeader {
+  background-color: rgba(128, 128, 128, 0.621);
+  color: white !important;
+}
+.mainDiv {
+  display: flex;
+}
+.CountryDropdown {
+  width: 200px;
+  margin-left: auto !important;
+  margin-right: 60px;
+}
